@@ -16,13 +16,13 @@ VSCode - web.php
 
 Browser
 Register Admin
-![Screenshot (38)](https://github.com/user-attachments/assets/d4f45c82-afab-4541-a5d9-d4ce7987243c)
+![Screenshot (48)](https://github.com/user-attachments/assets/df0bfb32-3ce0-4acb-a06a-88ea9ef5f532)
 
 Dashboard Admin
 ![Screenshot (39)](https://github.com/user-attachments/assets/9491ef6c-693c-4fba-8708-0df21103b424)
 
 Register Nama Lengkap
-![Screenshot (40)](https://github.com/user-attachments/assets/98601061-9dfb-49c1-8fd4-243840cd5e62)
+![Screenshot (49)](https://github.com/user-attachments/assets/c751bddd-9bed-47f3-85e3-00e6d7708a05)
 
 Dashboard Nama Lengkap
 ![Screenshot (41)](https://github.com/user-attachments/assets/9e0f63a1-2fb0-4f16-88ed-fd4c51a28726)
@@ -31,7 +31,7 @@ Login Nama Lengkap
 ![Screenshot (46)](https://github.com/user-attachments/assets/420e34fe-2eef-4f75-9f99-f4109f9f2fa1)
 
 Database
-![Screenshot (43)](https://github.com/user-attachments/assets/c2d2b8c8-ece9-40fb-b1de-d9c4d7c51f0c)
+![Screenshot (50)](https://github.com/user-attachments/assets/ab98cb5e-65cb-48de-87b9-135d87ae2d38)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
