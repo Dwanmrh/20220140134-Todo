@@ -27,6 +27,9 @@ Register Nama Lengkap
 Dashboard Nama Lengkap
 ![Screenshot (41)](https://github.com/user-attachments/assets/9e0f63a1-2fb0-4f16-88ed-fd4c51a28726)
 
+Database
+![Screenshot (43)](https://github.com/user-attachments/assets/c2d2b8c8-ece9-40fb-b1de-d9c4d7c51f0c)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
