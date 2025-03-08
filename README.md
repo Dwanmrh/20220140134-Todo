@@ -1,3 +1,32 @@
+Terminal
+![Screenshot (32)](https://github.com/user-attachments/assets/72fffd59-9e00-449f-adaf-2d3722126a32)
+
+![Screenshot (33)](https://github.com/user-attachments/assets/575cc9ff-6060-4752-ab40-d40cbf293f68)
+
+![Screenshot (34)](https://github.com/user-attachments/assets/027997bc-9463-4b91-b747-c96217be3d63)
+
+![Screenshot (35)](https://github.com/user-attachments/assets/e0ae6d58-20fb-4a74-9647-f614fcf8d708)
+
+![Screenshot (36)](https://github.com/user-attachments/assets/dc1d9aba-3149-49ec-9bfa-b2add4cefcc8)
+
+![Screenshot (37)](https://github.com/user-attachments/assets/e3daa79a-c0f5-4e2a-b0be-35f7cb41139b)
+
+VSCode - web.php
+![Screenshot (42)](https://github.com/user-attachments/assets/370f05af-fbb2-41df-bd16-78cdde63e517)
+
+Browser
+Register Admin
+![Screenshot (38)](https://github.com/user-attachments/assets/d4f45c82-afab-4541-a5d9-d4ce7987243c)
+
+Dashboard Admin
+![Screenshot (39)](https://github.com/user-attachments/assets/9491ef6c-693c-4fba-8708-0df21103b424)
+
+Register Nama Lengkap
+![Screenshot (40)](https://github.com/user-attachments/assets/98601061-9dfb-49c1-8fd4-243840cd5e62)
+
+Dashboard Nama Lengkap
+![Screenshot (41)](https://github.com/user-attachments/assets/9e0f63a1-2fb0-4f16-88ed-fd4c51a28726)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
